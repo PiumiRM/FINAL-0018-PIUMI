@@ -1,0 +1,39 @@
+.site-body{
+    font-family: 'Outfit', sans-serif;
+}
+
+.site-logo{
+    font-family: 'Outfit', sans-serif;
+    font-size: 35px;
+    font-weight :1000;
+}
+
+.site-sub-header{
+    font-size: 50px;
+    font-weight: 1000;
+}
+
+.site-para{
+    color: rgb(85, 85, 85);
+}
+
+.site-textbox{
+    border-radius: 30px;
+     color: rgba(54, 54, 54, 0.267);
+}
+
+.site-sec-header{
+    font-size: 34px; 
+    font-weight: 900;
+}
+
+.site-card-fonts{
+    font-size: 12px;
+}
+
+.site-trust{
+    padding-top: 50px; 
+    font-size: 80px; 
+    font-weight: 900; 
+    color:rgb(77, 77, 255);
+}
